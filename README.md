@@ -19,7 +19,7 @@
 <p align="center">
   
 </p>
-<p align="center"><strong>I’m a Backend Developer specializing in Go microservices && database optimization</p>
+<p align="center"><strong>I’m a Backend Developer specializing in Go microservices & database optimization</p>
 
 ---
 
