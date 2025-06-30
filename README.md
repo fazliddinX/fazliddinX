@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/About_Me-🎯_Crafting_Go_Services_🌐-55acee?style=for-the-badge&logo=go&logoColor=white" alt="About Me"/>
 </p>
-<p align="center"><strong>Building robust Go microservices • Optimizing data pipelines • Automating CI/CD workflows</strong></p>
+<p align="center"><strong>Building robust Go microservices • Optimizing data pipelines </p>
 
 ---
 
