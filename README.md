@@ -17,9 +17,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/About_Me-🎯_Crafting_Go_Services_🌐-55acee?style=for-the-badge&logo=go&logoColor=white" alt="About Me"/>
+  <img src=""About Me"/>
 </p>
-<p align="center"><strong>Building robust Go microservices • Optimizing data pipelines </p>
+<p align="center"><strong>I’m a Backend Developer specializing in Go microservices, database optimization</p>
 
 ---
 
