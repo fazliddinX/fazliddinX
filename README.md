@@ -38,15 +38,20 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" height="32"/>
 </p>
 
+<div align="center">
+
 # 🚑 Medician
 
 Modular microservices platform for personalized medicine — manage patient data, schedule appointments, process analytics, and send notifications.  
 Secure, scalable, and production-ready by design.
 
-🧠 Tech Stack: Go · gRPC · RabbitMQ  
-💾 Storage: MongoDB · PostgreSQL  
-📦 Deployment: Docker · Docker Compose  
-🧩 Architecture: Clean · Modular · Easily Extensible
+🧠 **Tech Stack:** Go · gRPC · RabbitMQ  
+💾 **Storage:** MongoDB · PostgreSQL  
+🐳 **Deployment:** Docker · Docker Compose  
+🧩 **Architecture:** Clean · Modular · Easily Extensible  
 
-👉 Protocol definitions: [Medician-protos](https://github.com/fazliddinX/Medician-protos)
+🔗 **Protocol definitions:** [Medician-protos](https://github.com/fazliddinX/Medician-protos)
+
+</div>
+
 
