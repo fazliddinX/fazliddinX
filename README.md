@@ -38,13 +38,9 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" height="32"/>
 </p>
 
-
-### 🚑 Medician  
-A professional, microservices‑based platform for personalized medicine:  
-- 🔄 Reliable RPC & messaging with **gRPC** & **RabbitMQ**  
-- 💾 Hybrid storage in **MongoDB** & **PostgreSQL**  
-- 🐋 Fully containerized with **Docker** & **Docker Compose**  
-- 📈 Easy scaling & secure service integration  
-👉 Browse all Medician repositories under the topic: [medician](https://github.com/topics/medician)
-
----
+- 🚑 [Medician](https://github.com/topics/medician):  
+  A comprehensive microservices suite for personalized medicine, empowering healthcare teams to manage patient records, schedule treatments, process analytics and send notifications in a secure, scalable environment.  
+  - 🔄 Reliable RPC & event streaming via gRPC & RabbitMQ  
+  - 💾 Flexible hybrid storage with MongoDB & PostgreSQL  
+  - 🐋 Consistent containerization using Docker & Docker Compose  
+  - 🔧 Modular architecture for easy extension with new clinical services  
