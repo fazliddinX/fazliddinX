@@ -37,3 +37,14 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="32"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" height="32"/>
 </p>
+
+
+### 🚑 Medician  
+A professional, microservices‑based platform for personalized medicine:  
+- 🔄 Reliable RPC & messaging with **gRPC** & **RabbitMQ**  
+- 💾 Hybrid storage in **MongoDB** & **PostgreSQL**  
+- 🐋 Fully containerized with **Docker** & **Docker Compose**  
+- 📈 Easy scaling & secure service integration  
+👉 Browse all Medician repositories under the topic: [medician](https://github.com/topics/medician)
+
+---
