@@ -50,11 +50,11 @@ _Modular microservices platform for personalized medicine — manage patient dat
 
 ---
 
-**🧠 Tech Stack:** Go · gRPC · RabbitMQ  
-**💾 Storage:** MongoDB · PostgreSQL  
-**🐳 Deployment:** Docker · Docker Compose  
-**🧩 Architecture:** Clean · Modular · Easily Extensible  
+**          🧠 Tech Stack:** Go · gRPC · RabbitMQ · Goroutines 
+**          💾 Storage:** MongoDB · PostgreSQL  
+**          🐳 Deployment:** Docker · Docker Compose  
+**          🧩 Architecture:** Clean · Modular · Easily Extensible  
 
-🔗 **Protocol definitions:** [Medician-protos](https://github.com/fazliddinX/Medician-protos)
+🔗 **          Protocol definitions:** [Medician-protos](https://github.com/fazliddinX/Medician-protos)
 
 
