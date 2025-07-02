@@ -42,16 +42,19 @@
 
 # 🚑 Medician
 
-Modular microservices platform for personalized medicine — manage patient data, schedule appointments, process analytics, and send notifications.  
-Secure, scalable, and production-ready by design.
-
-🧠 **Tech Stack:** Go · gRPC · RabbitMQ  
-💾 **Storage:** MongoDB · PostgreSQL  
-🐳 **Deployment:** Docker · Docker Compose  
-🧩 **Architecture:** Clean · Modular · Easily Extensible  
-
-🔗 **Protocol definitions:** [Medician-protos](https://github.com/fazliddinX/Medician-protos)
+_Modular microservices platform for personalized medicine — manage patient data,
+    schedule appointments, process analytics, and send notifications._  
+        Secure, scalable, and production-ready by design.
 
 </div>
+
+---
+
+**🧠 Tech Stack:** Go · gRPC · RabbitMQ  
+**💾 Storage:** MongoDB · PostgreSQL  
+**🐳 Deployment:** Docker · Docker Compose  
+**🧩 Architecture:** Clean · Modular · Easily Extensible  
+
+🔗 **Protocol definitions:** [Medician-protos](https://github.com/fazliddinX/Medician-protos)
 
 
