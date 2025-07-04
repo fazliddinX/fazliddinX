@@ -92,4 +92,11 @@ Backend service aggregating and normalizing social media feeds from multiple pla
 
 ---
 
-🧹 *These projects were crafted as learning experiences. Now, I’m contributing to production-grade software at a leading IT company, architecting scalable and reliable solutions.*
+
+<div align="center">
+
+### ✨ What's Next?
+
+<p><strong>🪩 These were just stepping stones — now I'm building robust, scalable, and secure solutions at a professional IT company. My current focus is on delivering production-grade systems that make real-world impact.</strong></p>
+
+</div>
