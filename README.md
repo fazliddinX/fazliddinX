@@ -42,48 +42,31 @@
 
 # 🚀 Key Projects
 
-*Below are three educational projects I built during my studies — showcasing clean architecture, containerized workflows, and production-style designs.**
+*Below are three educational projects I built during my studies, each demonstrating clean architecture, containerization, and production-style design.*
 
 ---
 
-## 🚑 Medician — Personalized Healthcare Platform
-
-A modular microservices platform for managing patient records, scheduling appointments, processing analytics, and delivering clinical notifications.
-
-- 🔧 **Tech:** Go · gRPC · RabbitMQ  
-- 💾 **Storage:** MongoDB · PostgreSQL · Redis  
-- 🐋 **Deployment:** Docker · Docker Compose  
-- 🧩 **Architecture:** Clean · Modular · Scalable
-
-🔗 **Explore project:** [github.com/topics/medician](https://github.com/topics/medician)
+**🚑 Medician — Personalized Healthcare Platform**  
+*Modular microservices for patient management, appointment scheduling, real-time analytics, and clinical notifications.*  
+**Tech:** Go · gRPC · RabbitMQ • **Storage:** MongoDB · PostgreSQL · Redis • **Deployment:** Docker · Docker Compose • **Architecture:** Clean · Modular · Scalable  
+🔗 [Explore Medician](https://github.com/topics/medician)
 
 ---
 
-## 🐦 Mini-Twitter  👥 Team-led Project 
-
-Alias of twitter bu in so mini form.
-
-- 🔧 **Tech:** Go · WebSockets · Gorilla Mux  
-- 💾 **Storage:** PostgreSQL (sqlx)  
-- 🐋 **Deployment:** Docker · Docker Compose  
-- 🎯 **Features:** Channels, DMs, mentions, presence indicators
-
-🔗 **View repository:** [github.com/fazliddinX/Mini-Twitter](https://github.com/fazliddinX/Mini-Twitter)
+**🐦 Mini-Twitter — Real-Time Chat Service**  
+*Lightweight chat platform inspired by Twitter, with direct messages, group channels, and user mentions.*  
+**Tech:** Go · WebSockets · Gorilla Mux • **Storage:** PostgreSQL (sqlx) • **Deployment:** Docker · Docker Compose • **Features:** Channels, DMs, mentions, presence  
+🔗 [View Mini-Twitter](https://github.com/fazliddinX/Mini-Twitter)
 
 ---
 
-## 🌐 Turc-Sm  👥 Team-led Project — Social Media Aggregator
-
-Backend service that aggregates and normalizes social media feeds from multiple platforms into unified.
-
-- 🔧 **Tech:** Go · REST API · gRPC  
-- 💾 **Storage:** MongoDB · Redis  
-- 🐋 **Deployment:** Docker · Docker Compose  
-- 🚀 **Features:** Feed normalization, caching, live updates
-
-🔗 **View repository:** [github.com/fazliddinX/Turc-Sm](https://github.com/fazliddinX/Turc-Sm)
+**🌐 Turc-Sm — Social Media Aggregator**  
+*Backend service aggregating and normalizing multi-platform social media feeds into unified, real-time streams.*  
+**Tech:** Go · REST API · gRPC • **Storage:** MongoDB · Redis • **Deployment:** Docker · Docker Compose • **Features:** Feed normalization, caching, live updates  
+🔗 [View Turc-Sm](https://github.com/fazliddinX/Turc-Sm)
 
 ---
 
-🧩 *These projects were crafted as learning experiences. Now, I’m contributing to professional, production-grade software at a leading IT company, architecting scalable and reliable solutions.*
+*These projects reflect my hands-on learning. Currently, I’m contributing to production-grade software at a leading IT company, architecting scalable and reliable solutions.*
+
 
