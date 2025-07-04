@@ -46,37 +46,38 @@ Below are three educational projects I built during my studies — showcasing cl
 ### 🚑 Medician — Personalized Healthcare Platform
 A modular microservices platform for managing patient records, scheduling appointments, processing analytics, and delivering clinical notifications.
 
-🔧 **Tech:** Go · gRPC · RabbitMQ · Redis
-💾 **Storage:** MongoDB · PostgreSQL
-🐋 **Deployment:** Docker · Docker Compose
-🧩 **Architecture:** Clean · Modular · Scalable
-
-🔗 [Medician-protos](https://github.com/fazliddinX/Medician-protos)
+- 🔧 **Tech:** Go · gRPC · RabbitMQ · Redis  
+- 💾 **Storage:** MongoDB · PostgreSQL  
+- 🐋 **Deployment:** Docker · Docker Compose  
+- 🧩 **Architecture:** Clean · Modular · Scalable
+- 
 🔗 [Explore project](https://github.com/topics/medician)
 
 ---
 
-### 🐦 Mini-Twitter (👥 Team-led)
+### 🐦 Mini-Twitter (👥 Team-led Project)
+Alias of Twitter but on a minimal scale.
 
-Alias of twitter but on a minimal scale
-
-🔧 **Tech:** Go · Gin
-💾 **Storage:** PostgreSQL (sqlx)
-🐋 **Deployment:** Docker · Docker Compose
+- 🔧 **Tech:** Go · WebSockets · Gorilla Mux  
+- 💾 **Storage:** PostgreSQL (sqlx)  
+- 🐋 **Deployment:** Docker · Docker Compose  
+- 🎯 **Features:** Channels · DMs · Mentions · Presence indicators
 
 🔗 [View Mini-Twitter](https://github.com/fazliddinX/Mini-Twitter)
 
 ---
 
-### 🌐 Turc-Sm — Social Media Aggregator (👥 Team-led)
-Backend service aggregating social media feeds into a normalized, unified stream.
+### 🌐 Turc-Sm — Social Media Aggregator (👥 Team-led Project)
+Backend service aggregating and normalizing social media feeds from multiple platforms.
 
-🔧 **Tech:** Go · REST API · gRPC
-💾 **Storage:** MongoDB · Redis
-🐋 **Deployment:** Docker · Docker Compose
+- 🔧 **Tech:** Go · REST API · gRPC  
+- 💾 **Storage:** MongoDB · Redis  
+- 🐋 **Deployment:** Docker · Docker Compose  
+- 🚀 **Features:** Feed normalization · Caching · Live updates
 
 🔗 [View Turc-Sm](https://github.com/fazliddinX/Turc-Sm)
 
 ---
 
 🧩 *These projects were crafted as learning experiences. Now, I’m contributing to production-grade software at a leading IT company, architecting scalable and reliable solutions.*
+
