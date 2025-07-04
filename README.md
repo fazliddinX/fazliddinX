@@ -36,6 +36,7 @@
 </p>
 
 ---
+---
 
 <div align="center">
 
@@ -54,11 +55,15 @@ A modular microservices platform for managing patient records, scheduling appoin
 
 </div>
 
+<div style="padding-left: 30px">
+
 - 🔧 **Tech:** Go · gRPC · RabbitMQ · Redis  
 - 📂 **Storage:** MongoDB · PostgreSQL  
 - 📦 **Deployment:** Docker · Docker Compose  
-- 🧹 **Architecture:** Clean · Modular · Scalable  
+- 🩹 **Architecture:** Clean · Modular · Scalable  
 - 🔗 **Links:** [Medician-protos](https://github.com/fazliddinX/Medician-protos) · [Explore project](https://github.com/topics/medician)
+
+</div>
 
 ---
 
@@ -92,10 +97,9 @@ Backend service aggregating and normalizing social media feeds from multiple pla
 
 ---
 
-
 <div align="center">
 
-### ✨ What's Next?
+### 🌟 What's Next?
 
 <p><strong>🪩 These were just stepping stones — now I'm building robust, scalable, and secure solutions at a professional IT company. My current focus is on delivering production-grade systems that make real-world impact.</strong></p>
 
