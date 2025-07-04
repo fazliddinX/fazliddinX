@@ -40,21 +40,50 @@
 
 <div align="center">
 
-# 🚀 My Projects
+# 🚀 Key Projects
 
-Here are some of the practical systems I developed during my education — each applying clean architecture, containerized deployments, and production-grade principles.
+*Below are three educational projects I built during my studies — showcasing clean architecture, containerized workflows, and production-style designs.**
 
 ---
 
 ## 🚑 Medician — Personalized Healthcare Platform
 
-> _A modular microservices system for managing patient data, appointment flows, analytics, and healthcare notifications._
+A modular microservices platform for managing patient records, scheduling appointments, processing analytics, and delivering clinical notifications.
 
-🔹 **Core Stack**: Go · gRPC · RabbitMQ · Goroutines  
-🔹 **Storage**: MongoDB · PostgreSQL  
-🔹 **Deployment**: Docker · Docker Compose  
-🔹 **Architecture**: Clean · Modular · Scalable
+- 🔧 **Tech:** Go · gRPC · RabbitMQ  
+- 💾 **Storage:** MongoDB · PostgreSQL · Redis  
+- 🐋 **Deployment:** Docker · Docker Compose  
+- 🧩 **Architecture:** Clean · Modular · Scalable
 
-🔗 **Protocol definitions**: [Medician-protos](https://github.com/fazliddinX/Medician-protos)
+🔗 **Explore project:** [github.com/topics/medician](https://github.com/topics/medician)
 
 ---
+
+## 🐦 Mini-Twitter  👥 Team-led Project 
+
+Alias of twitter bu in so mini form.
+
+- 🔧 **Tech:** Go · WebSockets · Gorilla Mux  
+- 💾 **Storage:** PostgreSQL (sqlx)  
+- 🐋 **Deployment:** Docker · Docker Compose  
+- 🎯 **Features:** Channels, DMs, mentions, presence indicators
+
+🔗 **View repository:** [github.com/fazliddinX/Mini-Twitter](https://github.com/fazliddinX/Mini-Twitter)
+
+---
+
+## 🌐 Turc-Sm  👥 Team-led Project — Social Media Aggregator
+
+Backend service that aggregates and normalizes social media feeds from multiple platforms into unified.
+
+- 🔧 **Tech:** Go · REST API · gRPC  
+- 💾 **Storage:** MongoDB · Redis  
+- 🐋 **Deployment:** Docker · Docker Compose  
+- 🚀 **Features:** Feed normalization, caching, live updates
+
+🔗 **View repository:** [github.com/fazliddinX/Turc-Sm](https://github.com/fazliddinX/Turc-Sm)
+
+---
+
+🧩 *These projects were crafted as learning experiences. Now, I’m contributing to professional, production-grade software at a leading IT company, architecting scalable and reliable solutions.*
+
