@@ -40,21 +40,21 @@
 
 <div align="center">
 
-# 🚑 Medician
+# 🚀 My Projects
 
-_Modular microservices platform for personalized medicine — manage patient data,
-    schedule appointments, process analytics, and send notifications._  
-        Secure, scalable, and production-ready by design.
-
-</div>
+Here are some of the practical systems I developed during my education — each applying clean architecture, containerized deployments, and production-grade principles.
 
 ---
 
-   **🧠 Tech Stack:** Go · gRPC · RabbitMQ · Goroutines 
-   **💾 Storage:** MongoDB · PostgreSQL  
-   **🐳 Deployment:** Docker · Docker Compose  
-   **🧩 Architecture:** Clean · Modular · Easily Extensible  
+## 🚑 Medician — Personalized Healthcare Platform
 
-  🔗 **          Protocol definitions:** [Medician-protos](https://github.com/fazliddinX/Medician-protos)
+> _A modular microservices system for managing patient data, appointment flows, analytics, and healthcare notifications._
 
+🔹 **Core Stack**: Go · gRPC · RabbitMQ · Goroutines  
+🔹 **Storage**: MongoDB · PostgreSQL  
+🔹 **Deployment**: Docker · Docker Compose  
+🔹 **Architecture**: Clean · Modular · Scalable
 
+🔗 **Protocol definitions**: [Medician-protos](https://github.com/fazliddinX/Medician-protos)
+
+---
