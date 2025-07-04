@@ -37,9 +37,13 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 Key Projects
 
 Below are three educational projects I built during my studies — showcasing clean architecture, containerized workflows, and production-style designs.
+
+</div>
 
 ---
 
@@ -50,13 +54,14 @@ A modular microservices platform for managing patient records, scheduling appoin
 - 💾 **Storage:** MongoDB · PostgreSQL  
 - 🐋 **Deployment:** Docker · Docker Compose  
 - 🧩 **Architecture:** Clean · Modular · Scalable
-- 
+
+🔗 [Medician-protos](https://github.com/fazliddinX/Medician-protos)  
 🔗 [Explore project](https://github.com/topics/medician)
 
 ---
 
 ### 🐦 Mini-Twitter (👥 Team-led Project)
-Alias of Twitter but on a minimal scale.
+A lightweight social platform inspired by Twitter.
 
 - 🔧 **Tech:** Go · WebSockets · Gorilla Mux  
 - 💾 **Storage:** PostgreSQL (sqlx)  
